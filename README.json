@@ -50,7 +50,7 @@
                 "last_commit": "2026-08-13T00:29:19Z",
                 "owner": "shaka-project",
                 "repo": "shaka-player",
-                "stars": 8194
+                "stars": 8193
               }
             }
           ]
@@ -175,7 +175,7 @@
                 "last_commit": "2026-08-12T15:28:20Z",
                 "owner": "automerge",
                 "repo": "automerge",
-                "stars": 6491
+                "stars": 6492
               }
             }
           ]
@@ -205,7 +205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:00:05.430Z",
+    "last_updated": "2026-08-13T06:03:31.792Z",
     "original_repository": "greatfrontend/awesome-front-end-system-design",
     "original_repository_sha": "f56c0f3a4a763fe5628ac0ad9f5d472897024252",
     "enhanced_repository": "enhansome/enhansome-front-end-system-design",

@@ -224,7 +224,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
 * Tutorials
   * [Building a Media Player Series | Chrome for Developers](https://www.youtube.com/watch?v=--KA2VrPDao\&list=PLNYkxOF6rcIBykcJ7bvTpqU7vt-oey72J\&index=20)
 * Libraries
-  * [Shaka Player](https://github.com/shaka-project/shaka-player) ⭐ 8,194 | 🐛 51 | 🌐 JavaScript | 📅 2026-08-13: An open-source JavaScript library for adaptive media that supports DASH and HLS.
+  * [Shaka Player](https://github.com/shaka-project/shaka-player) ⭐ 8,193 | 🐛 51 | 🌐 JavaScript | 📅 2026-08-13: An open-source JavaScript library for adaptive media that supports DASH and HLS.
   * [Video.js](https://videojs.com/): Similar to Shaka Player, with many different themes and skins.
   * [Media Chrome](https://www.media-chrome.org/): Elements for building media players.
   * [dash.js](https://reference.dashif.org/dash.js/): A reference client implementation by the DASH Industry Forum (DASH-IF) for the playback of MPEG-DASH via JavaScript and compliant MSE/EME platforms.
@@ -276,7 +276,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
   * [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
   * [You don't need CRDTs for collaborative experiences](https://zknill.io/posts/collaboration-no-crdts/)
 * Operational Transformations (OTs)
-  * [Etherpad](https://github.com/ether/etherpad-lite) ⭐ 18,488 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-12: Project acquired by Google then later released as open source.
+  * [Etherpad](https://github.com/ether/etherpad-lite) ⭐ 18,488 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-12: Project acquired by Google then later released as open source.
   * [Visualization of OT with a central server](https://operational-transformation.github.io/)
   * Papers
     * [Concurrency Control in Groupware Systems](https://dl.acm.org/doi/pdf/10.1145/67544.66963): Paper that introduces operational transforms
@@ -289,7 +289,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
   * [OT FAQ](https://web.archive.org/web/20200623064915/https://www3.ntu.edu.sg/home/czsun/projects/otfaq/): Comprehensive coverage of questions, answers, and references related to the subject of OT.
 * Conflict-Free Replicated Data Types (CRDTs)
   * [Yjs](https://github.com/yjs/yjs) ⭐ 22,342 | 🐛 135 | 🌐 JavaScript | 📅 2026-08-06: A CRDT implementation in JavaScript
-  * [Automerge](https://github.com/automerge/automerge/) ⭐ 6,491 | 🐛 110 | 🌐 JavaScript | 📅 2026-08-12: Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.
+  * [Automerge](https://github.com/automerge/automerge/) ⭐ 6,492 | 🐛 110 | 🌐 JavaScript | 📅 2026-08-12: Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.
   * [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
   * [CRDT.tech](https://crdt.tech/): Website containing useful resources related to CRDTs.
   * [An introduction to Conflict-Free Replicated Data Types](https://lars.hupel.info/topics/crdt/01-intro/)
@@ -335,15 +335,15 @@ Front end system design resources are rare. Here's a curated list of awesome res
     * [Real-time mouse pointers](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/)
     * [How we see groups in design](https://www.canva.dev/blog/engineering/how-we-see-groups-in-design/)
 * Open Source
-  * [tldraw](https://github.com/tldraw/tldraw) ⭐ 49,753 | 🐛 452 | 🌐 TypeScript | 📅 2026-08-12: A tiny little drawing app and powerful tools for building diagramming applications
-  * [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 129,463 | 🐛 3,311 | 🌐 TypeScript | 📅 2026-08-13: Virtual whiteboard for sketching hand-drawn like diagrams
-  * [draw.io](https://github.com/jgraph/drawio) ⭐ 7,465 | 🐛 116 | 🌐 JavaScript | 📅 2026-08-09: Diagramming and whiteboarding web application
-  * [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,718 | 🐛 1,698 | 🌐 TypeScript | 📅 2026-08-12: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-  * [xyflow](https://github.com/xyflow/xyflow) ⭐ 38,002 | 🐛 128 | 🌐 TypeScript | 📅 2026-08-12: Library for building node-based UIs with React
+  * [tldraw](https://github.com/tldraw/tldraw) ⭐ 49,755 | 🐛 452 | 🌐 TypeScript | 📅 2026-08-12: A tiny little drawing app and powerful tools for building diagramming applications
+  * [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 129,472 | 🐛 3,311 | 🌐 TypeScript | 📅 2026-08-13: Virtual whiteboard for sketching hand-drawn like diagrams
+  * [draw.io](https://github.com/jgraph/drawio) ⭐ 7,468 | 🐛 116 | 🌐 JavaScript | 📅 2026-08-09: Diagramming and whiteboarding web application
+  * [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,720 | 🐛 1,698 | 🌐 TypeScript | 📅 2026-08-13: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+  * [xyflow](https://github.com/xyflow/xyflow) ⭐ 38,003 | 🐛 128 | 🌐 TypeScript | 📅 2026-08-12: Library for building node-based UIs with React
   * [React Diagrams](https://github.com/projectstorm/react-diagrams) ⭐ 9,421 | 🐛 320 | 🌐 TypeScript | 📅 2025-04-03: A flow & process orientated diagramming library written in React
   * [JointJS](https://github.com/clientio/joint) ⭐ 5,346 | 🐛 43 | 🌐 JavaScript | 📅 2026-08-12: Diagramming library for building interactive diagrams, flowcharts, and other visual representations
   * [React Easy Diagram](https://github.com/tokarchyn/react-easy-diagram) ⭐ 43 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-06: React library for creating diagrams with nodes and edges
-  * [Penpot](https://github.com/penpot/penpot) ⭐ 58,477 | 🐛 798 | 🌐 Clojure | 📅 2026-08-12: Open Source design & prototyping platform
+  * [Penpot](https://github.com/penpot/penpot) ⭐ 58,482 | 🐛 796 | 🌐 Clojure | 📅 2026-08-13: Open Source design & prototyping platform
   * [Craft.js](https://craft.js.org/): A React framework for building extensible drag and drop page editors
 
 ### Video Call (e.g. Zoom, Skype)
