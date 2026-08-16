@@ -203,7 +203,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
   * Mux
     * [How we made Mux Player’s loading feel great](https://www.mux.com/blog/mux-player-lazy-loading-with-blurhash)
 * Foundation
-  * [Digital video introduction](https://github.com/leandromoreira/digital_video_introduction) ⭐ 16,284 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-07-25
+  * [Digital video introduction](https://github.com/leandromoreira/digital_video_introduction) ⭐ 16,288 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-07-25
   * [How video works](https://howvideo.works/)
 * Resources
   * [Media | web.dev](https://web.dev/explore/media)
@@ -224,7 +224,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
 * Tutorials
   * [Building a Media Player Series | Chrome for Developers](https://www.youtube.com/watch?v=--KA2VrPDao\&list=PLNYkxOF6rcIBykcJ7bvTpqU7vt-oey72J\&index=20)
 * Libraries
-  * [Shaka Player](https://github.com/shaka-project/shaka-player) ⭐ 8,195 | 🐛 55 | 🌐 JavaScript | 📅 2026-08-13: An open-source JavaScript library for adaptive media that supports DASH and HLS.
+  * [Shaka Player](https://github.com/shaka-project/shaka-player) ⭐ 8,196 | 🐛 55 | 🌐 JavaScript | 📅 2026-08-16: An open-source JavaScript library for adaptive media that supports DASH and HLS.
   * [Video.js](https://videojs.com/): Similar to Shaka Player, with many different themes and skins.
   * [Media Chrome](https://www.media-chrome.org/): Elements for building media players.
   * [dash.js](https://reference.dashif.org/dash.js/): A reference client implementation by the DASH Industry Forum (DASH-IF) for the playback of MPEG-DASH via JavaScript and compliant MSE/EME platforms.
@@ -276,7 +276,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
   * [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
   * [You don't need CRDTs for collaborative experiences](https://zknill.io/posts/collaboration-no-crdts/)
 * Operational Transformations (OTs)
-  * [Etherpad](https://github.com/ether/etherpad-lite) ⭐ 18,492 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-14: Project acquired by Google then later released as open source.
+  * [Etherpad](https://github.com/ether/etherpad-lite) ⭐ 18,495 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-15: Project acquired by Google then later released as open source.
   * [Visualization of OT with a central server](https://operational-transformation.github.io/)
   * Papers
     * [Concurrency Control in Groupware Systems](https://dl.acm.org/doi/pdf/10.1145/67544.66963): Paper that introduces operational transforms
@@ -289,7 +289,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
   * [OT FAQ](https://web.archive.org/web/20200623064915/https://www3.ntu.edu.sg/home/czsun/projects/otfaq/): Comprehensive coverage of questions, answers, and references related to the subject of OT.
 * Conflict-Free Replicated Data Types (CRDTs)
   * [Yjs](https://github.com/yjs/yjs) ⭐ 22,354 | 🐛 135 | 🌐 JavaScript | 📅 2026-08-06: A CRDT implementation in JavaScript
-  * [Automerge](https://github.com/automerge/automerge/) ⭐ 6,503 | 🐛 111 | 🌐 JavaScript | 📅 2026-08-12: Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.
+  * [Automerge](https://github.com/automerge/automerge/) ⭐ 6,504 | 🐛 111 | 🌐 JavaScript | 📅 2026-08-12: Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.
   * [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
   * [CRDT.tech](https://crdt.tech/): Website containing useful resources related to CRDTs.
   * [An introduction to Conflict-Free Replicated Data Types](https://lars.hupel.info/topics/crdt/01-intro/)
@@ -335,15 +335,15 @@ Front end system design resources are rare. Here's a curated list of awesome res
     * [Real-time mouse pointers](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/)
     * [How we see groups in design](https://www.canva.dev/blog/engineering/how-we-see-groups-in-design/)
 * Open Source
-  * [tldraw](https://github.com/tldraw/tldraw) ⭐ 49,782 | 🐛 440 | 🌐 TypeScript | 📅 2026-08-14: A tiny little drawing app and powerful tools for building diagramming applications
-  * [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 129,608 | 🐛 3,319 | 🌐 TypeScript | 📅 2026-08-14: Virtual whiteboard for sketching hand-drawn like diagrams
-  * [draw.io](https://github.com/jgraph/drawio) ⭐ 7,512 | 🐛 118 | 🌐 JavaScript | 📅 2026-08-09: Diagramming and whiteboarding web application
-  * [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,768 | 🐛 1,696 | 🌐 TypeScript | 📅 2026-08-15: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-  * [xyflow](https://github.com/xyflow/xyflow) ⭐ 38,018 | 🐛 128 | 🌐 TypeScript | 📅 2026-08-13: Library for building node-based UIs with React
+  * [tldraw](https://github.com/tldraw/tldraw) ⭐ 49,793 | 🐛 439 | 🌐 TypeScript | 📅 2026-08-15: A tiny little drawing app and powerful tools for building diagramming applications
+  * [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 129,705 | 🐛 3,323 | 🌐 TypeScript | 📅 2026-08-15: Virtual whiteboard for sketching hand-drawn like diagrams
+  * [draw.io](https://github.com/jgraph/drawio) ⭐ 7,528 | 🐛 118 | 🌐 JavaScript | 📅 2026-08-09: Diagramming and whiteboarding web application
+  * [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,787 | 🐛 1,702 | 🌐 TypeScript | 📅 2026-08-16: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+  * [xyflow](https://github.com/xyflow/xyflow) ⭐ 38,027 | 🐛 129 | 🌐 TypeScript | 📅 2026-08-13: Library for building node-based UIs with React
   * [React Diagrams](https://github.com/projectstorm/react-diagrams) ⭐ 9,421 | 🐛 320 | 🌐 TypeScript | 📅 2025-04-03: A flow & process orientated diagramming library written in React
-  * [JointJS](https://github.com/clientio/joint) ⭐ 5,348 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-14: Diagramming library for building interactive diagrams, flowcharts, and other visual representations
+  * [JointJS](https://github.com/clientio/joint) ⭐ 5,349 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-14: Diagramming library for building interactive diagrams, flowcharts, and other visual representations
   * [React Easy Diagram](https://github.com/tokarchyn/react-easy-diagram) ⭐ 43 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-06: React library for creating diagrams with nodes and edges
-  * [Penpot](https://github.com/penpot/penpot) ⭐ 58,575 | 🐛 803 | 🌐 Clojure | 📅 2026-08-14: Open Source design & prototyping platform
+  * [Penpot](https://github.com/penpot/penpot) ⭐ 58,646 | 🐛 804 | 🌐 Clojure | 📅 2026-08-14: Open Source design & prototyping platform
   * [Craft.js](https://craft.js.org/): A React framework for building extensible drag and drop page editors
 
 ### Video Call (e.g. Zoom, Skype)
@@ -563,4 +563,4 @@ _Examples: [foo.com](https://www.foo.com), [bar.com](https://www.bar.com)_
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
