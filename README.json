@@ -47,10 +47,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T03:44:35Z",
+                "last_commit": "2026-08-16T19:11:26Z",
                 "owner": "shaka-project",
                 "repo": "shaka-player",
-                "stars": 8196
+                "stars": 8197
               }
             }
           ]
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-15T13:24:49Z",
                 "owner": "ether",
                 "repo": "etherpad",
-                "stars": 18495
+                "stars": 18497
               }
             },
             {
@@ -96,7 +96,7 @@
                     "last_commit": "2026-07-31T13:43:42Z",
                     "owner": "share",
                     "repo": "sharedb",
-                    "stars": 6538
+                    "stars": 6536
                   }
                 },
                 {
@@ -161,7 +161,7 @@
                 "last_commit": "2026-08-06T08:32:25Z",
                 "owner": "yjs",
                 "repo": "yjs",
-                "stars": 22354
+                "stars": 22357
               }
             },
             {
@@ -172,7 +172,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-12T15:28:20Z",
+                "last_commit": "2026-08-17T00:54:01Z",
                 "owner": "automerge",
                 "repo": "automerge",
                 "stars": 6504
@@ -205,7 +205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:04:12.472Z",
+    "last_updated": "2026-08-17T05:18:50.685Z",
     "original_repository": "greatfrontend/awesome-front-end-system-design",
     "original_repository_sha": "f56c0f3a4a763fe5628ac0ad9f5d472897024252",
     "enhanced_repository": "enhansome/enhansome-front-end-system-design",
