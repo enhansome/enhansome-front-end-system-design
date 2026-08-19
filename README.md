@@ -224,7 +224,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
 * Tutorials
   * [Building a Media Player Series | Chrome for Developers](https://www.youtube.com/watch?v=--KA2VrPDao\&list=PLNYkxOF6rcIBykcJ7bvTpqU7vt-oey72J\&index=20)
 * Libraries
-  * [Shaka Player](https://github.com/shaka-project/shaka-player) ⭐ 8,199 | 🐛 56 | 🌐 JavaScript | 📅 2026-08-16: An open-source JavaScript library for adaptive media that supports DASH and HLS.
+  * [Shaka Player](https://github.com/shaka-project/shaka-player) ⭐ 8,199 | 🐛 55 | 🌐 JavaScript | 📅 2026-08-19: An open-source JavaScript library for adaptive media that supports DASH and HLS.
   * [Video.js](https://videojs.com/): Similar to Shaka Player, with many different themes and skins.
   * [Media Chrome](https://www.media-chrome.org/): Elements for building media players.
   * [dash.js](https://reference.dashif.org/dash.js/): A reference client implementation by the DASH Industry Forum (DASH-IF) for the playback of MPEG-DASH via JavaScript and compliant MSE/EME platforms.
@@ -288,7 +288,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
     * [The Plaintext OT Type, with proper unicode positions](https://github.com/ottypes/text-unicode) ⭐ 77 | 🐛 5 | 🌐 TypeScript | 📅 2022-03-24: Successor to [text type](https://github.com/ottypes/text) ⭐ 138 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-06 which accounts for unicode code points. Used by ShareJS.
   * [OT FAQ](https://web.archive.org/web/20200623064915/https://www3.ntu.edu.sg/home/czsun/projects/otfaq/): Comprehensive coverage of questions, answers, and references related to the subject of OT.
 * Conflict-Free Replicated Data Types (CRDTs)
-  * [Yjs](https://github.com/yjs/yjs) ⭐ 22,368 | 🐛 135 | 🌐 JavaScript | 📅 2026-08-06: A CRDT implementation in JavaScript
+  * [Yjs](https://github.com/yjs/yjs) ⭐ 22,369 | 🐛 135 | 🌐 JavaScript | 📅 2026-08-06: A CRDT implementation in JavaScript
   * [Automerge](https://github.com/automerge/automerge/) ⭐ 6,518 | 🐛 112 | 🌐 JavaScript | 📅 2026-08-18: Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.
   * [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
   * [CRDT.tech](https://crdt.tech/): Website containing useful resources related to CRDTs.
@@ -335,15 +335,15 @@ Front end system design resources are rare. Here's a curated list of awesome res
     * [Real-time mouse pointers](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/)
     * [How we see groups in design](https://www.canva.dev/blog/engineering/how-we-see-groups-in-design/)
 * Open Source
-  * [tldraw](https://github.com/tldraw/tldraw) ⭐ 49,850 | 🐛 464 | 🌐 TypeScript | 📅 2026-08-19: A tiny little drawing app and powerful tools for building diagramming applications
-  * [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 129,985 | 🐛 3,333 | 🌐 TypeScript | 📅 2026-08-16: Virtual whiteboard for sketching hand-drawn like diagrams
-  * [draw.io](https://github.com/jgraph/drawio) ⭐ 7,595 | 🐛 117 | 🌐 JavaScript | 📅 2026-08-09: Diagramming and whiteboarding web application
-  * [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,837 | 🐛 1,704 | 🌐 TypeScript | 📅 2026-08-19: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-  * [xyflow](https://github.com/xyflow/xyflow) ⭐ 38,052 | 🐛 128 | 🌐 TypeScript | 📅 2026-08-18: Library for building node-based UIs with React
+  * [tldraw](https://github.com/tldraw/tldraw) ⭐ 49,858 | 🐛 484 | 🌐 TypeScript | 📅 2026-08-19: A tiny little drawing app and powerful tools for building diagramming applications
+  * [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 130,005 | 🐛 3,334 | 🌐 TypeScript | 📅 2026-08-16: Virtual whiteboard for sketching hand-drawn like diagrams
+  * [draw.io](https://github.com/jgraph/drawio) ⭐ 7,600 | 🐛 117 | 🌐 JavaScript | 📅 2026-08-09: Diagramming and whiteboarding web application
+  * [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,842 | 🐛 1,702 | 🌐 TypeScript | 📅 2026-08-19: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+  * [xyflow](https://github.com/xyflow/xyflow) ⭐ 38,054 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-19: Library for building node-based UIs with React
   * [React Diagrams](https://github.com/projectstorm/react-diagrams) ⭐ 9,421 | 🐛 320 | 🌐 TypeScript | 📅 2025-04-03: A flow & process orientated diagramming library written in React
-  * [JointJS](https://github.com/clientio/joint) ⭐ 5,353 | 🐛 40 | 🌐 JavaScript | 📅 2026-08-18: Diagramming library for building interactive diagrams, flowcharts, and other visual representations
+  * [JointJS](https://github.com/clientio/joint) ⭐ 5,353 | 🐛 41 | 🌐 JavaScript | 📅 2026-08-18: Diagramming library for building interactive diagrams, flowcharts, and other visual representations
   * [React Easy Diagram](https://github.com/tokarchyn/react-easy-diagram) ⭐ 43 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-06: React library for creating diagrams with nodes and edges
-  * [Penpot](https://github.com/penpot/penpot) ⭐ 58,854 | 🐛 744 | 🌐 Clojure | 📅 2026-08-19: Open Source design & prototyping platform
+  * [Penpot](https://github.com/penpot/penpot) ⭐ 58,878 | 🐛 754 | 🌐 Clojure | 📅 2026-08-19: Open Source design & prototyping platform
   * [Craft.js](https://craft.js.org/): A React framework for building extensible drag and drop page editors
 
 ### Video Call (e.g. Zoom, Skype)

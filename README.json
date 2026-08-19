@@ -1,212 +1,200 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Applications"
-    },
-    {
-      "description": "Contributions welcome",
-      "items": [],
-      "title": "Email Client (e.g. Microsoft Outlook)"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "group",
-          "title": "Foundation",
-          "description": null,
           "children": [
-            {
-              "node_type": "item",
-              "title": "Digital video introduction",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Jupyter Notebook",
-                "last_commit": "2026-07-25T00:29:55Z",
-                "owner": "leandromoreira",
-                "repo": "digital_video_introduction",
-                "stars": 16293
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Libraries",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Shaka Player",
-              "description": "An open-source JavaScript library for adaptive media that supports DASH and HLS.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-08-16T19:11:26Z",
-                "owner": "shaka-project",
-                "repo": "shaka-player",
-                "stars": 8199
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Video Streaming (e.g. YouTube, Netflix)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Operational Transformations (OTs)",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Etherpad",
-              "description": "Project acquired by Google then later released as open source.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-18T15:25:54Z",
-                "owner": "ether",
-                "repo": "etherpad",
-                "stars": 18498
-              }
-            },
             {
               "node_type": "group",
-              "title": "ShareJS ecosystem",
+              "title": "Foundation",
               "description": null,
               "children": [
                 {
                   "node_type": "item",
-                  "title": "ShareDB",
-                  "description": "Realtime database backend based on operational transforms. Successor to ShareJS.",
+                  "title": "Digital video introduction",
+                  "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "language": "JavaScript",
-                    "last_commit": "2026-07-31T13:43:42Z",
-                    "owner": "share",
-                    "repo": "sharedb",
-                    "stars": 6536
+                    "id": 80256824,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-07-25T00:29:55Z",
+                    "owner": "leandromoreira",
+                    "repo": "digital_video_introduction",
+                    "stars": 16293
                   }
-                },
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Libraries",
+              "description": null,
+              "children": [
                 {
                   "node_type": "item",
-                  "title": "ShareJS",
-                  "description": "Server & client library to allow concurrent editing of any kind of content via operational transforms",
+                  "title": "Shaka Player",
+                  "description": "An open-source JavaScript library for adaptive media that supports DASH and HLS.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 28246472,
                     "language": "JavaScript",
-                    "last_commit": "2016-09-12T00:37:39Z",
-                    "owner": "josephg",
-                    "repo": "ShareJS",
-                    "stars": 4982
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "The Plaintext OT Type",
-                  "description": "Library for operational transforms on plain text. Used by ShareJS.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "language": "JavaScript",
-                    "last_commit": "2022-12-06T12:58:32Z",
-                    "owner": "ottypes",
-                    "repo": "text",
-                    "stars": 138
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "The Plaintext OT Type, with proper unicode positions",
-                  "description": "Successor to text type which accounts for unicode code points. Used by ShareJS.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "language": "TypeScript",
-                    "last_commit": "2022-03-24T05:22:14Z",
-                    "owner": "ottypes",
-                    "repo": "text-unicode",
-                    "stars": 77
+                    "last_commit": "2026-08-19T10:06:19Z",
+                    "owner": "shaka-project",
+                    "repo": "shaka-player",
+                    "stars": 8199
                   }
                 }
               ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Video Streaming (e.g. YouTube, Netflix)"
         },
         {
-          "node_type": "group",
-          "title": "Conflict-Free Replicated Data Types (CRDTs)",
-          "description": null,
           "children": [
             {
-              "node_type": "item",
-              "title": "Yjs",
-              "description": "A CRDT implementation in JavaScript",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-08-06T08:32:25Z",
-                "owner": "yjs",
-                "repo": "yjs",
-                "stars": 22368
-              }
+              "node_type": "group",
+              "title": "Operational Transformations (OTs)",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Etherpad",
+                  "description": "Project acquired by Google then later released as open source.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1529160,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T15:25:54Z",
+                    "owner": "ether",
+                    "repo": "etherpad",
+                    "stars": 18498
+                  }
+                },
+                {
+                  "node_type": "group",
+                  "title": "ShareJS ecosystem",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "ShareDB",
+                      "description": "Realtime database backend based on operational transforms. Successor to ShareJS.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 9156525,
+                        "language": "JavaScript",
+                        "last_commit": "2026-07-31T13:43:42Z",
+                        "owner": "share",
+                        "repo": "sharedb",
+                        "stars": 6536
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "ShareJS",
+                      "description": "Server & client library to allow concurrent editing of any kind of content via operational transforms",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1630999,
+                        "language": "JavaScript",
+                        "last_commit": "2016-09-12T00:37:39Z",
+                        "owner": "josephg",
+                        "repo": "ShareJS",
+                        "stars": 4982
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "The Plaintext OT Type",
+                      "description": "Library for operational transforms on plain text. Used by ShareJS.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 21922050,
+                        "language": "JavaScript",
+                        "last_commit": "2022-12-06T12:58:32Z",
+                        "owner": "ottypes",
+                        "repo": "text",
+                        "stars": 138
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "The Plaintext OT Type, with proper unicode positions",
+                      "description": "Successor to text type which accounts for unicode code points. Used by ShareJS.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 160618295,
+                        "language": "TypeScript",
+                        "last_commit": "2022-03-24T05:22:14Z",
+                        "owner": "ottypes",
+                        "repo": "text-unicode",
+                        "stars": 77
+                      }
+                    }
+                  ]
+                }
+              ]
             },
             {
-              "node_type": "item",
-              "title": "Automerge",
-              "description": "Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-08-18T09:06:47Z",
-                "owner": "automerge",
-                "repo": "automerge",
-                "stars": 6518
-              }
+              "node_type": "group",
+              "title": "Conflict-Free Replicated Data Types (CRDTs)",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Yjs",
+                  "description": "A CRDT implementation in JavaScript",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 22392639,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-06T08:32:25Z",
+                    "owner": "yjs",
+                    "repo": "yjs",
+                    "stars": 22369
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Automerge",
+                  "description": "Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 230250903,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-18T09:06:47Z",
+                    "owner": "automerge",
+                    "repo": "automerge",
+                    "stars": 6518
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Collaborative Editor (e.g. Google Docs)"
         }
       ],
-      "title": "Collaborative Editor (e.g. Google Docs)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Techniques / Topics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "User Interface Components"
-    },
-    {
-      "description": "Contributions welcome",
-      "items": [],
-      "title": "Tooltip/Popover"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Miscellaneous"
+      "title": "Applications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:05:47.185Z",
+    "last_updated": "2026-08-19T12:33:26.381Z",
     "original_repository": "greatfrontend/awesome-front-end-system-design",
+    "original_repository_id": 593048179,
     "original_repository_sha": "f56c0f3a4a763fe5628ac0ad9f5d472897024252",
     "enhanced_repository": "enhansome/enhansome-front-end-system-design",
     "enhanced_repository_description": null,
