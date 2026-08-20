@@ -41,10 +41,10 @@
                     "archived": false,
                     "id": 28246472,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-19T10:06:19Z",
+                    "last_commit": "2026-08-20T04:19:00Z",
                     "owner": "shaka-project",
                     "repo": "shaka-player",
-                    "stars": 8199
+                    "stars": 8200
                   }
                 }
               ]
@@ -70,10 +70,10 @@
                     "archived": false,
                     "id": 1529160,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-18T15:25:54Z",
+                    "last_commit": "2026-08-19T15:25:13Z",
                     "owner": "ether",
                     "repo": "etherpad",
-                    "stars": 18498
+                    "stars": 18499
                   }
                 },
                 {
@@ -162,7 +162,7 @@
                     "last_commit": "2026-08-06T08:32:25Z",
                     "owner": "yjs",
                     "repo": "yjs",
-                    "stars": 22369
+                    "stars": 22375
                   }
                 },
                 {
@@ -174,10 +174,10 @@
                     "archived": false,
                     "id": 230250903,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-18T09:06:47Z",
+                    "last_commit": "2026-08-19T17:30:15Z",
                     "owner": "automerge",
                     "repo": "automerge",
-                    "stars": 6518
+                    "stars": 6519
                   }
                 }
               ]
@@ -192,7 +192,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:33:26.381Z",
+    "last_updated": "2026-08-20T05:07:22.536Z",
     "original_repository": "greatfrontend/awesome-front-end-system-design",
     "original_repository_id": 593048179,
     "original_repository_sha": "f56c0f3a4a763fe5628ac0ad9f5d472897024252",
