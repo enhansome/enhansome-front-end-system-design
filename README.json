@@ -22,7 +22,7 @@
                     "last_commit": "2026-07-25T00:29:55Z",
                     "owner": "leandromoreira",
                     "repo": "digital_video_introduction",
-                    "stars": 16295
+                    "stars": 16296
                   }
                 }
               ]
@@ -73,7 +73,7 @@
                     "last_commit": "2026-08-21T15:25:22Z",
                     "owner": "ether",
                     "repo": "etherpad",
-                    "stars": 18498
+                    "stars": 18499
                   }
                 },
                 {
@@ -162,7 +162,7 @@
                     "last_commit": "2026-08-06T08:32:25Z",
                     "owner": "yjs",
                     "repo": "yjs",
-                    "stars": 22667
+                    "stars": 22670
                   }
                 },
                 {
@@ -177,7 +177,7 @@
                     "last_commit": "2026-08-21T08:13:27Z",
                     "owner": "automerge",
                     "repo": "automerge",
-                    "stars": 6522
+                    "stars": 6523
                   }
                 }
               ]
@@ -192,7 +192,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:03:04.542Z",
+    "last_updated": "2026-08-23T05:05:12.180Z",
     "original_repository": "greatfrontend/awesome-front-end-system-design",
     "original_repository_id": 593048179,
     "original_repository_sha": "f56c0f3a4a763fe5628ac0ad9f5d472897024252",
