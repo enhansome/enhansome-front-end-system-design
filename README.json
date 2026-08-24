@@ -7,6 +7,35 @@
           "children": [
             {
               "node_type": "group",
+              "title": "Resources",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "How Pinterest Masonry works",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 121806807,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-06T20:19:49Z",
+                    "owner": "pinterest",
+                    "repo": "gestalt",
+                    "stars": 4368
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "Examples: Pinterest",
+          "node_type": "group",
+          "title": "Pinterest"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
               "title": "Foundation",
               "description": null,
               "children": [
@@ -22,7 +51,7 @@
                     "last_commit": "2026-07-25T00:29:55Z",
                     "owner": "leandromoreira",
                     "repo": "digital_video_introduction",
-                    "stars": 16297
+                    "stars": 16298
                   }
                 }
               ]
@@ -41,7 +70,7 @@
                     "archived": false,
                     "id": 28246472,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-21T14:27:42Z",
+                    "last_commit": "2026-08-24T10:53:48Z",
                     "owner": "shaka-project",
                     "repo": "shaka-player",
                     "stars": 8202
@@ -70,7 +99,7 @@
                     "archived": false,
                     "id": 1529160,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T22:51:41Z",
+                    "last_commit": "2026-08-24T12:38:13Z",
                     "owner": "ether",
                     "repo": "etherpad",
                     "stars": 18503
@@ -162,7 +191,7 @@
                     "last_commit": "2026-08-06T08:32:25Z",
                     "owner": "yjs",
                     "repo": "yjs",
-                    "stars": 22678
+                    "stars": 22682
                   }
                 },
                 {
@@ -177,7 +206,7 @@
                     "last_commit": "2026-08-24T00:55:23Z",
                     "owner": "automerge",
                     "repo": "automerge",
-                    "stars": 6524
+                    "stars": 6525
                   }
                 }
               ]
@@ -186,13 +215,162 @@
           "description": null,
           "node_type": "group",
           "title": "Collaborative Editor (e.g. Google Docs)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Open Source",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Excalidraw",
+                  "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 231283452,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-22T21:27:32Z",
+                    "owner": "excalidraw",
+                    "repo": "excalidraw",
+                    "stars": 130383
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mermaid",
+                  "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 26066727,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-24T13:04:42Z",
+                    "owner": "mermaid-js",
+                    "repo": "mermaid",
+                    "stars": 89916
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Penpot",
+                  "description": "Open Source design & prototyping platform",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 48769241,
+                    "language": "Clojure",
+                    "last_commit": "2026-08-24T13:45:34Z",
+                    "owner": "penpot",
+                    "repo": "penpot",
+                    "stars": 59113
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "tldraw",
+                  "description": "A tiny little drawing app and powerful tools for building diagramming applications",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 365739812,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-24T12:57:48Z",
+                    "owner": "tldraw",
+                    "repo": "tldraw",
+                    "stars": 49937
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "xyflow",
+                  "description": "Library for building node-based UIs with React",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 197018189,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-24T13:42:24Z",
+                    "owner": "xyflow",
+                    "repo": "xyflow",
+                    "stars": 38119
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "React Diagrams",
+                  "description": "A flow & process orientated diagramming library written in React",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60334478,
+                    "language": "TypeScript",
+                    "last_commit": "2025-04-03T17:33:25Z",
+                    "owner": "projectstorm",
+                    "repo": "react-diagrams",
+                    "stars": 9421
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "draw.io",
+                  "description": "Diagramming and whiteboarding web application",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 67508428,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-22T11:26:36Z",
+                    "owner": "jgraph",
+                    "repo": "drawio",
+                    "stars": 7678
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "JointJS",
+                  "description": "Diagramming library for building interactive diagrams, flowcharts, and other visual representations",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 303975,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-24T13:28:04Z",
+                    "owner": "clientIO",
+                    "repo": "joint",
+                    "stars": 5360
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "React Easy Diagram",
+                  "description": "React library for creating diagrams with nodes and edges",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 310854997,
+                    "language": "TypeScript",
+                    "last_commit": "2023-03-06T20:27:12Z",
+                    "owner": "tokarchyn",
+                    "repo": "react-easy-diagram",
+                    "stars": 43
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Design Tool (e.g. Figma, Excalidraw)"
         }
       ],
       "title": "Applications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:22:44.205Z",
+    "last_updated": "2026-08-24T13:53:59.802Z",
     "original_repository": "greatfrontend/awesome-front-end-system-design",
     "original_repository_id": 593048179,
     "original_repository_sha": "f56c0f3a4a763fe5628ac0ad9f5d472897024252",
