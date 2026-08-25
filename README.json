@@ -191,7 +191,7 @@
                     "last_commit": "2026-08-06T08:32:25Z",
                     "owner": "yjs",
                     "repo": "yjs",
-                    "stars": 22688
+                    "stars": 22687
                   }
                 },
                 {
@@ -235,7 +235,7 @@
                     "last_commit": "2026-08-22T21:27:32Z",
                     "owner": "excalidraw",
                     "repo": "excalidraw",
-                    "stars": 130432
+                    "stars": 130435
                   }
                 },
                 {
@@ -247,10 +247,10 @@
                     "archived": false,
                     "id": 26066727,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T18:45:40Z",
+                    "last_commit": "2026-08-25T05:41:52Z",
                     "owner": "mermaid-js",
                     "repo": "mermaid",
-                    "stars": 89933
+                    "stars": 89934
                   }
                 },
                 {
@@ -265,7 +265,7 @@
                     "last_commit": "2026-08-24T20:08:34Z",
                     "owner": "penpot",
                     "repo": "penpot",
-                    "stars": 59140
+                    "stars": 59145
                   }
                 },
                 {
@@ -280,7 +280,7 @@
                     "last_commit": "2026-08-24T16:41:21Z",
                     "owner": "tldraw",
                     "repo": "tldraw",
-                    "stars": 49943
+                    "stars": 49945
                   }
                 },
                 {
@@ -370,7 +370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:08:54.390Z",
+    "last_updated": "2026-08-25T05:48:22.637Z",
     "original_repository": "greatfrontend/awesome-front-end-system-design",
     "original_repository_id": 593048179,
     "original_repository_sha": "f56c0f3a4a763fe5628ac0ad9f5d472897024252",

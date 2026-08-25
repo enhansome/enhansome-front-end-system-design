@@ -288,7 +288,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
     * [The Plaintext OT Type, with proper unicode positions](https://github.com/ottypes/text-unicode) ⭐ 77 | 🐛 5 | 🌐 TypeScript | 📅 2022-03-24: Successor to [text type](https://github.com/ottypes/text) ⭐ 138 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-06 which accounts for unicode code points. Used by ShareJS.
   * [OT FAQ](https://web.archive.org/web/20200623064915/https://www3.ntu.edu.sg/home/czsun/projects/otfaq/): Comprehensive coverage of questions, answers, and references related to the subject of OT.
 * Conflict-Free Replicated Data Types (CRDTs)
-  * [Yjs](https://github.com/yjs/yjs) ⭐ 22,688 | 🐛 136 | 🌐 JavaScript | 📅 2026-08-06: A CRDT implementation in JavaScript
+  * [Yjs](https://github.com/yjs/yjs) ⭐ 22,687 | 🐛 136 | 🌐 JavaScript | 📅 2026-08-06: A CRDT implementation in JavaScript
   * [Automerge](https://github.com/automerge/automerge/) ⭐ 6,526 | 🐛 110 | 🌐 JavaScript | 📅 2026-08-24: Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.
   * [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
   * [CRDT.tech](https://crdt.tech/): Website containing useful resources related to CRDTs.
@@ -335,10 +335,10 @@ Front end system design resources are rare. Here's a curated list of awesome res
     * [Real-time mouse pointers](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/)
     * [How we see groups in design](https://www.canva.dev/blog/engineering/how-we-see-groups-in-design/)
 * Open Source
-  * [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 130,432 | 🐛 3,377 | 🌐 TypeScript | 📅 2026-08-22: Virtual whiteboard for sketching hand-drawn like diagrams
-  * [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,933 | 🐛 1,727 | 🌐 TypeScript | 📅 2026-08-24: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-  * [Penpot](https://github.com/penpot/penpot) ⭐ 59,140 | 🐛 770 | 🌐 Clojure | 📅 2026-08-24: Open Source design & prototyping platform
-  * [tldraw](https://github.com/tldraw/tldraw) ⭐ 49,943 | 🐛 726 | 🌐 TypeScript | 📅 2026-08-24: A tiny little drawing app and powerful tools for building diagramming applications
+  * [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 130,435 | 🐛 3,377 | 🌐 TypeScript | 📅 2026-08-22: Virtual whiteboard for sketching hand-drawn like diagrams
+  * [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,934 | 🐛 1,727 | 🌐 TypeScript | 📅 2026-08-25: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+  * [Penpot](https://github.com/penpot/penpot) ⭐ 59,145 | 🐛 770 | 🌐 Clojure | 📅 2026-08-24: Open Source design & prototyping platform
+  * [tldraw](https://github.com/tldraw/tldraw) ⭐ 49,945 | 🐛 726 | 🌐 TypeScript | 📅 2026-08-24: A tiny little drawing app and powerful tools for building diagramming applications
   * [xyflow](https://github.com/xyflow/xyflow) ⭐ 38,128 | 🐛 126 | 🌐 TypeScript | 📅 2026-08-24: Library for building node-based UIs with React
   * [React Diagrams](https://github.com/projectstorm/react-diagrams) ⭐ 9,422 | 🐛 320 | 🌐 TypeScript | 📅 2025-04-03: A flow & process orientated diagramming library written in React
   * [draw.io](https://github.com/jgraph/drawio) ⭐ 7,695 | 🐛 114 | 🌐 JavaScript | 📅 2026-08-22: Diagramming and whiteboarding web application
