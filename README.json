@@ -99,10 +99,10 @@
                     "archived": false,
                     "id": 1529160,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T15:26:22Z",
+                    "last_commit": "2026-08-27T15:27:21Z",
                     "owner": "ether",
                     "repo": "etherpad",
-                    "stars": 18507
+                    "stars": 18508
                   }
                 },
                 {
@@ -191,7 +191,7 @@
                     "last_commit": "2026-08-06T08:32:25Z",
                     "owner": "yjs",
                     "repo": "yjs",
-                    "stars": 22706
+                    "stars": 22709
                   }
                 },
                 {
@@ -203,10 +203,10 @@
                     "archived": false,
                     "id": 230250903,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T09:29:46Z",
+                    "last_commit": "2026-08-27T14:50:38Z",
                     "owner": "automerge",
                     "repo": "automerge",
-                    "stars": 6535
+                    "stars": 6536
                   }
                 }
               ]
@@ -232,10 +232,10 @@
                     "archived": false,
                     "id": 231283452,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T01:44:31Z",
+                    "last_commit": "2026-08-27T15:03:19Z",
                     "owner": "excalidraw",
                     "repo": "excalidraw",
-                    "stars": 130623
+                    "stars": 130637
                   }
                 },
                 {
@@ -247,10 +247,10 @@
                     "archived": false,
                     "id": 26066727,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T11:38:51Z",
+                    "last_commit": "2026-08-27T15:20:28Z",
                     "owner": "mermaid-js",
                     "repo": "mermaid",
-                    "stars": 89964
+                    "stars": 89967
                   }
                 },
                 {
@@ -262,10 +262,10 @@
                     "archived": false,
                     "id": 48769241,
                     "language": "Clojure",
-                    "last_commit": "2026-08-27T11:17:21Z",
+                    "last_commit": "2026-08-27T13:56:07Z",
                     "owner": "penpot",
                     "repo": "penpot",
-                    "stars": 59236
+                    "stars": 59245
                   }
                 },
                 {
@@ -277,10 +277,10 @@
                     "archived": false,
                     "id": 365739812,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T11:32:00Z",
+                    "last_commit": "2026-08-27T15:18:05Z",
                     "owner": "tldraw",
                     "repo": "tldraw",
-                    "stars": 49988
+                    "stars": 49991
                   }
                 },
                 {
@@ -292,10 +292,10 @@
                     "archived": false,
                     "id": 197018189,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-26T20:09:48Z",
+                    "last_commit": "2026-08-27T12:13:51Z",
                     "owner": "xyflow",
                     "repo": "xyflow",
-                    "stars": 38161
+                    "stars": 38167
                   }
                 },
                 {
@@ -310,7 +310,7 @@
                     "last_commit": "2025-04-03T17:33:25Z",
                     "owner": "projectstorm",
                     "repo": "react-diagrams",
-                    "stars": 9424
+                    "stars": 9425
                   }
                 },
                 {
@@ -325,7 +325,7 @@
                     "last_commit": "2026-08-26T21:51:03Z",
                     "owner": "jgraph",
                     "repo": "drawio",
-                    "stars": 7754
+                    "stars": 7759
                   }
                 },
                 {
@@ -337,10 +337,10 @@
                     "archived": false,
                     "id": 303975,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-26T08:50:42Z",
+                    "last_commit": "2026-08-27T12:54:19Z",
                     "owner": "clientIO",
                     "repo": "joint",
-                    "stars": 5362
+                    "stars": 5363
                   }
                 },
                 {
@@ -370,7 +370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:40:17.397Z",
+    "last_updated": "2026-08-27T15:27:28.376Z",
     "original_repository_info": {
       "archived": false,
       "id": 593048179,
@@ -378,7 +378,7 @@
       "last_commit": "2026-03-03T13:55:49Z",
       "owner": "greatfrontend",
       "repo": "awesome-front-end-system-design",
-      "stars": 8450
+      "stars": 8451
     },
     "original_repository_sha": "f56c0f3a4a763fe5628ac0ad9f5d472897024252",
     "enhanced_repository": "enhansome/enhansome-front-end-system-design",
