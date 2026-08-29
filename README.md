@@ -169,7 +169,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
   * [A one year PWA retrospective](https://medium.com/pinterest-engineering/a-one-year-pwa-retrospective-f4a2f4129e05)
   * [Improving GIF performance on Pinterest](https://medium.com/pinterest-engineering/improving-gif-performance-on-pinterest-8dad74bf92f1)
 * Resources
-  * [How Pinterest Masonry works](https://github.com/pinterest/gestalt/blob/master/packages/gestalt/src/Masonry/README.md) ⭐ 4,369 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-06
+  * [How Pinterest Masonry works](https://github.com/pinterest/gestalt/blob/master/packages/gestalt/src/Masonry/README.md) ⭐ 4,370 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-06
   * [Gestalt (Pinterest's design system)](https://gestalt.pinterest.systems/)
   * [Gestalt Masonry component](https://gestalt.pinterest.systems/web/masonry)
 
@@ -276,7 +276,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
   * [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
   * [You don't need CRDTs for collaborative experiences](https://zknill.io/posts/collaboration-no-crdts/)
 * Operational Transformations (OTs)
-  * [Etherpad](https://github.com/ether/etherpad-lite) ⭐ 18,513 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-28: Project acquired by Google then later released as open source.
+  * [Etherpad](https://github.com/ether/etherpad-lite) ⭐ 18,514 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-28: Project acquired by Google then later released as open source.
   * [Visualization of OT with a central server](https://operational-transformation.github.io/)
   * Papers
     * [Concurrency Control in Groupware Systems](https://dl.acm.org/doi/pdf/10.1145/67544.66963): Paper that introduces operational transforms
@@ -335,13 +335,13 @@ Front end system design resources are rare. Here's a curated list of awesome res
     * [Real-time mouse pointers](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/)
     * [How we see groups in design](https://www.canva.dev/blog/engineering/how-we-see-groups-in-design/)
 * Open Source
-  * [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 130,725 | 🐛 3,419 | 🌐 TypeScript | 📅 2026-08-28: Virtual whiteboard for sketching hand-drawn like diagrams
-  * [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,974 | 🐛 1,751 | 🌐 TypeScript | 📅 2026-08-28: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-  * [Penpot](https://github.com/penpot/penpot) ⭐ 59,331 | 🐛 794 | 🌐 Clojure | 📅 2026-08-28: Open Source design & prototyping platform
-  * [tldraw](https://github.com/tldraw/tldraw) ⭐ 50,016 | 🐛 725 | 🌐 TypeScript | 📅 2026-08-28: A tiny little drawing app and powerful tools for building diagramming applications
-  * [xyflow](https://github.com/xyflow/xyflow) ⭐ 38,183 | 🐛 129 | 🌐 TypeScript | 📅 2026-08-27: Library for building node-based UIs with React
+  * [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 130,744 | 🐛 3,420 | 🌐 TypeScript | 📅 2026-08-28: Virtual whiteboard for sketching hand-drawn like diagrams
+  * [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,975 | 🐛 1,752 | 🌐 TypeScript | 📅 2026-08-28: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+  * [Penpot](https://github.com/penpot/penpot) ⭐ 59,354 | 🐛 795 | 🌐 Clojure | 📅 2026-08-28: Open Source design & prototyping platform
+  * [tldraw](https://github.com/tldraw/tldraw) ⭐ 50,019 | 🐛 725 | 🌐 TypeScript | 📅 2026-08-28: A tiny little drawing app and powerful tools for building diagramming applications
+  * [xyflow](https://github.com/xyflow/xyflow) ⭐ 38,192 | 🐛 129 | 🌐 TypeScript | 📅 2026-08-27: Library for building node-based UIs with React
   * [React Diagrams](https://github.com/projectstorm/react-diagrams) ⭐ 9,425 | 🐛 320 | 🌐 TypeScript | 📅 2025-04-03: A flow & process orientated diagramming library written in React
-  * [draw.io](https://github.com/jgraph/drawio) ⭐ 7,780 | 🐛 101 | 🌐 JavaScript | 📅 2026-08-28: Diagramming and whiteboarding web application
+  * [draw.io](https://github.com/jgraph/drawio) ⭐ 7,787 | 🐛 101 | 🌐 JavaScript | 📅 2026-08-28: Diagramming and whiteboarding web application
   * [JointJS](https://github.com/clientio/joint) ⭐ 5,366 | 🐛 49 | 🌐 JavaScript | 📅 2026-08-28: Diagramming library for building interactive diagrams, flowcharts, and other visual representations
   * [React Easy Diagram](https://github.com/tokarchyn/react-easy-diagram) ⭐ 43 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-06: React library for creating diagrams with nodes and edges
   * [Craft.js](https://craft.js.org/): A React framework for building extensible drag and drop page editors
