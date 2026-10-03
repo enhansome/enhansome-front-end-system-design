@@ -203,7 +203,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
   * Mux
     * [How we made Mux Player’s loading feel great](https://www.mux.com/blog/mux-player-lazy-loading-with-blurhash)
 * Foundation
-  * [Digital video introduction](https://github.com/leandromoreira/digital_video_introduction) ⭐ 16,343 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-09-02
+  * [Digital video introduction](https://github.com/leandromoreira/digital_video_introduction) ⭐ 16,342 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-09-02
   * [How video works](https://howvideo.works/)
 * Resources
   * [Media | web.dev](https://web.dev/explore/media)
@@ -288,8 +288,8 @@ Front end system design resources are rare. Here's a curated list of awesome res
     * [The Plaintext OT Type, with proper unicode positions](https://github.com/ottypes/text-unicode) ⭐ 77 | 🐛 5 | 🌐 TypeScript | 📅 2022-03-24: Successor to [text type](https://github.com/ottypes/text) ⭐ 137 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-06 which accounts for unicode code points. Used by ShareJS.
   * [OT FAQ](https://web.archive.org/web/20200623064915/https://www3.ntu.edu.sg/home/czsun/projects/otfaq/): Comprehensive coverage of questions, answers, and references related to the subject of OT.
 * Conflict-Free Replicated Data Types (CRDTs)
-  * [Yjs](https://github.com/yjs/yjs) ⭐ 22,874 | 🐛 140 | 🌐 JavaScript | 📅 2026-09-29: A CRDT implementation in JavaScript
-  * [Automerge](https://github.com/automerge/automerge/) ⭐ 6,632 | 🐛 96 | 🌐 JavaScript | 📅 2026-10-02: Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.
+  * [Yjs](https://github.com/yjs/yjs) ⭐ 22,875 | 🐛 140 | 🌐 JavaScript | 📅 2026-09-29: A CRDT implementation in JavaScript
+  * [Automerge](https://github.com/automerge/automerge/) ⭐ 6,633 | 🐛 96 | 🌐 JavaScript | 📅 2026-10-02: Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.
   * [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
   * [CRDT.tech](https://crdt.tech/): Website containing useful resources related to CRDTs.
   * [An introduction to Conflict-Free Replicated Data Types](https://lars.hupel.info/topics/crdt/01-intro/)
@@ -335,13 +335,13 @@ Front end system design resources are rare. Here's a curated list of awesome res
     * [Real-time mouse pointers](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/)
     * [How we see groups in design](https://www.canva.dev/blog/engineering/how-we-see-groups-in-design/)
 * Open Source
-  * [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 133,415 | 🐛 3,284 | 🌐 TypeScript | 📅 2026-10-01: Virtual whiteboard for sketching hand-drawn like diagrams
+  * [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 133,428 | 🐛 3,250 | 🌐 TypeScript | 📅 2026-10-01: Virtual whiteboard for sketching hand-drawn like diagrams
   * [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 90,515 | 🐛 1,835 | 🌐 TypeScript | 📅 2026-10-02: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-  * [Penpot](https://github.com/penpot/penpot) ⭐ 60,626 | 🐛 795 | 🌐 Clojure | 📅 2026-10-02: Open Source design & prototyping platform
-  * [tldraw](https://github.com/tldraw/tldraw) ⭐ 50,718 | 🐛 619 | 🌐 TypeScript | 📅 2026-10-02: A tiny little drawing app and powerful tools for building diagramming applications
-  * [xyflow](https://github.com/xyflow/xyflow) ⭐ 38,571 | 🐛 142 | 🌐 TypeScript | 📅 2026-09-29: Library for building node-based UIs with React
+  * [Penpot](https://github.com/penpot/penpot) ⭐ 60,633 | 🐛 795 | 🌐 Clojure | 📅 2026-10-03: Open Source design & prototyping platform
+  * [tldraw](https://github.com/tldraw/tldraw) ⭐ 50,720 | 🐛 619 | 🌐 TypeScript | 📅 2026-10-03: A tiny little drawing app and powerful tools for building diagramming applications
+  * [xyflow](https://github.com/xyflow/xyflow) ⭐ 38,575 | 🐛 143 | 🌐 TypeScript | 📅 2026-09-29: Library for building node-based UIs with React
   * [React Diagrams](https://github.com/projectstorm/react-diagrams) ⭐ 9,428 | 🐛 320 | 🌐 TypeScript | 📅 2025-04-03: A flow & process orientated diagramming library written in React
-  * [draw.io](https://github.com/jgraph/drawio) ⭐ 8,537 | 🐛 41 | 🌐 JavaScript | 📅 2026-10-01: Diagramming and whiteboarding web application
+  * [draw.io](https://github.com/jgraph/drawio) ⭐ 8,540 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-03: Diagramming and whiteboarding web application
   * [JointJS](https://github.com/clientio/joint) ⭐ 5,393 | 🐛 58 | 🌐 JavaScript | 📅 2026-10-01: Diagramming library for building interactive diagrams, flowcharts, and other visual representations
   * [React Easy Diagram](https://github.com/tokarchyn/react-easy-diagram) ⭐ 43 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-06: React library for creating diagrams with nodes and edges
   * [Craft.js](https://craft.js.org/): A React framework for building extensible drag and drop page editors

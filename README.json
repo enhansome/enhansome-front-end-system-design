@@ -65,7 +65,7 @@
                     "open_issues": 19,
                     "owner": "leandromoreira",
                     "repo": "digital_video_introduction",
-                    "stars": 16343,
+                    "stars": 16342,
                     "topics": [
                       "adaptive-streaming",
                       "arithmetic-coding",
@@ -284,7 +284,7 @@
                     "open_issues": 140,
                     "owner": "yjs",
                     "repo": "yjs",
-                    "stars": 22874,
+                    "stars": 22875,
                     "topics": [
                       "collaboration",
                       "collaborative-editing",
@@ -316,7 +316,7 @@
                     "open_issues": 96,
                     "owner": "automerge",
                     "repo": "automerge",
-                    "stars": 6632,
+                    "stars": 6633,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:54:13.415Z"
@@ -348,10 +348,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-01T15:08:43Z",
-                    "open_issues": 3284,
+                    "open_issues": 3250,
                     "owner": "excalidraw",
                     "repo": "excalidraw",
-                    "stars": 133415,
+                    "stars": 133428,
                     "topics": [
                       "canvas",
                       "collaboration",
@@ -406,11 +406,11 @@
                     "id": 48769241,
                     "language": "Clojure",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-10-02T22:09:38Z",
+                    "last_commit": "2026-10-03T09:52:28Z",
                     "open_issues": 795,
                     "owner": "penpot",
                     "repo": "penpot",
-                    "stars": 60626,
+                    "stars": 60633,
                     "topics": [
                       "clojure",
                       "clojurescript",
@@ -435,11 +435,11 @@
                     "id": 365739812,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T23:45:06Z",
+                    "last_commit": "2026-10-03T07:03:31Z",
                     "open_issues": 619,
                     "owner": "tldraw",
                     "repo": "tldraw",
-                    "stars": 50718,
+                    "stars": 50720,
                     "topics": [
                       "canvas",
                       "collaboration",
@@ -470,10 +470,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-09-29T11:30:06Z",
-                    "open_issues": 142,
+                    "open_issues": 143,
                     "owner": "xyflow",
                     "repo": "xyflow",
-                    "stars": 38571,
+                    "stars": 38575,
                     "topics": [
                       "flowchart",
                       "graph",
@@ -539,11 +539,11 @@
                     "id": 67508428,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T15:37:02Z",
-                    "open_issues": 41,
+                    "last_commit": "2026-10-03T09:22:36Z",
+                    "open_issues": 40,
                     "owner": "jgraph",
                     "repo": "drawio",
-                    "stars": 8537,
+                    "stars": 8540,
                     "topics": [
                       "diagram",
                       "javascript",
@@ -625,7 +625,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:49:01.256Z",
+    "last_updated": "2026-10-03T10:01:46.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated front end system design resources for interviews and learning",
@@ -637,7 +637,7 @@
       "open_issues": 1,
       "owner": "greatfrontend",
       "repo": "awesome-front-end-system-design",
-      "stars": 8541,
+      "stars": 8542,
       "topics": [
         "front-end",
         "front-end-system-design",
