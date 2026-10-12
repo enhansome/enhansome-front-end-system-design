@@ -26,7 +26,7 @@
                     "open_issues": 9,
                     "owner": "pinterest",
                     "repo": "gestalt",
-                    "stars": 4379,
+                    "stars": 4380,
                     "topics": [
                       "design-system",
                       "javascript",
@@ -65,7 +65,7 @@
                     "open_issues": 19,
                     "owner": "leandromoreira",
                     "repo": "digital_video_introduction",
-                    "stars": 16354,
+                    "stars": 16357,
                     "topics": [
                       "adaptive-streaming",
                       "arithmetic-coding",
@@ -114,7 +114,7 @@
                     "open_issues": 54,
                     "owner": "shaka-project",
                     "repo": "shaka-player",
-                    "stars": 8244,
+                    "stars": 8243,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:54:13.415Z"
@@ -145,11 +145,11 @@
                     "id": 1529160,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-09T15:28:42Z",
-                    "open_issues": 29,
+                    "last_commit": "2026-10-12T12:00:37Z",
+                    "open_issues": 17,
                     "owner": "ether",
                     "repo": "etherpad",
-                    "stars": 18581,
+                    "stars": 18587,
                     "topics": [
                       "collaboration",
                       "collaborative",
@@ -212,7 +212,7 @@
                         "open_issues": 109,
                         "owner": "josephg",
                         "repo": "ShareJS",
-                        "stars": 4976,
+                        "stars": 4975,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:54:13.415Z"
@@ -284,7 +284,7 @@
                     "open_issues": 143,
                     "owner": "yjs",
                     "repo": "yjs",
-                    "stars": 22918,
+                    "stars": 22924,
                     "topics": [
                       "collaboration",
                       "collaborative-editing",
@@ -313,10 +313,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-09T23:35:54Z",
-                    "open_issues": 96,
+                    "open_issues": 97,
                     "owner": "automerge",
                     "repo": "automerge",
-                    "stars": 6655,
+                    "stars": 6656,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:54:13.415Z"
@@ -347,11 +347,11 @@
                     "id": 231283452,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-11T08:15:07Z",
-                    "open_issues": 3261,
+                    "last_commit": "2026-10-12T12:15:55Z",
+                    "open_issues": 3267,
                     "owner": "excalidraw",
                     "repo": "excalidraw",
-                    "stars": 133635,
+                    "stars": 133709,
                     "topics": [
                       "canvas",
                       "collaboration",
@@ -376,11 +376,11 @@
                     "id": 26066727,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-11T04:24:08Z",
-                    "open_issues": 1863,
+                    "last_commit": "2026-10-12T11:52:39Z",
+                    "open_issues": 1869,
                     "owner": "mermaid-js",
                     "repo": "mermaid",
-                    "stars": 90605,
+                    "stars": 90626,
                     "topics": [
                       "diagrams",
                       "diagrams-as-code",
@@ -406,11 +406,11 @@
                     "id": 48769241,
                     "language": "Clojure",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-10-11T09:31:31Z",
-                    "open_issues": 809,
+                    "last_commit": "2026-10-12T12:08:39Z",
+                    "open_issues": 807,
                     "owner": "penpot",
                     "repo": "penpot",
-                    "stars": 60901,
+                    "stars": 60947,
                     "topics": [
                       "clojure",
                       "clojurescript",
@@ -435,11 +435,11 @@
                     "id": 365739812,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-10T13:36:57Z",
-                    "open_issues": 587,
+                    "last_commit": "2026-10-12T10:19:19Z",
+                    "open_issues": 590,
                     "owner": "tldraw",
                     "repo": "tldraw",
-                    "stars": 50837,
+                    "stars": 50865,
                     "topics": [
                       "canvas",
                       "collaboration",
@@ -469,11 +469,11 @@
                     "id": 197018189,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T08:31:20Z",
-                    "open_issues": 148,
+                    "last_commit": "2026-10-12T08:50:46Z",
+                    "open_issues": 149,
                     "owner": "xyflow",
                     "repo": "xyflow",
-                    "stars": 38631,
+                    "stars": 38638,
                     "topics": [
                       "flowchart",
                       "graph",
@@ -543,7 +543,7 @@
                     "open_issues": 36,
                     "owner": "jgraph",
                     "repo": "drawio",
-                    "stars": 8674,
+                    "stars": 8708,
                     "topics": [
                       "diagram",
                       "javascript",
@@ -565,7 +565,7 @@
                     "language": "JavaScript",
                     "license": "MPL-2.0",
                     "last_commit": "2026-10-09T14:20:42Z",
-                    "open_issues": 62,
+                    "open_issues": 64,
                     "owner": "clientIO",
                     "repo": "joint",
                     "stars": 5390,
@@ -625,7 +625,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T10:59:31.213Z",
+    "last_updated": "2026-10-12T12:24:29.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated front end system design resources for interviews and learning",
@@ -637,7 +637,7 @@
       "open_issues": 1,
       "owner": "greatfrontend",
       "repo": "awesome-front-end-system-design",
-      "stars": 8547,
+      "stars": 8548,
       "topics": [
         "front-end",
         "front-end-system-design",
