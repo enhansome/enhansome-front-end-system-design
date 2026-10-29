@@ -169,7 +169,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
   * [A one year PWA retrospective](https://medium.com/pinterest-engineering/a-one-year-pwa-retrospective-f4a2f4129e05)
   * [Improving GIF performance on Pinterest](https://medium.com/pinterest-engineering/improving-gif-performance-on-pinterest-8dad74bf92f1)
 * Resources
-  * [How Pinterest Masonry works](https://github.com/pinterest/gestalt/blob/master/packages/gestalt/src/Masonry/README.md) ⭐ 4,383 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-05
+  * [How Pinterest Masonry works](https://github.com/pinterest/gestalt/blob/master/packages/gestalt/src/Masonry/README.md) ⭐ 4,382 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-05
   * [Gestalt (Pinterest's design system)](https://gestalt.pinterest.systems/)
   * [Gestalt Masonry component](https://gestalt.pinterest.systems/web/masonry)
 
@@ -203,7 +203,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
   * Mux
     * [How we made Mux Player’s loading feel great](https://www.mux.com/blog/mux-player-lazy-loading-with-blurhash)
 * Foundation
-  * [Digital video introduction](https://github.com/leandromoreira/digital_video_introduction) ⭐ 16,372 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-09-02
+  * [Digital video introduction](https://github.com/leandromoreira/digital_video_introduction) ⭐ 16,374 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-09-02
   * [How video works](https://howvideo.works/)
 * Resources
   * [Media | web.dev](https://web.dev/explore/media)
@@ -224,7 +224,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
 * Tutorials
   * [Building a Media Player Series | Chrome for Developers](https://www.youtube.com/watch?v=--KA2VrPDao\&list=PLNYkxOF6rcIBykcJ7bvTpqU7vt-oey72J\&index=20)
 * Libraries
-  * [Shaka Player](https://github.com/shaka-project/shaka-player) ⭐ 8,262 | 🐛 52 | 🌐 JavaScript | 📅 2026-10-28: An open-source JavaScript library for adaptive media that supports DASH and HLS.
+  * [Shaka Player](https://github.com/shaka-project/shaka-player) ⭐ 8,265 | 🐛 54 | 🌐 JavaScript | 📅 2026-10-29: An open-source JavaScript library for adaptive media that supports DASH and HLS.
   * [Video.js](https://videojs.com/): Similar to Shaka Player, with many different themes and skins.
   * [Media Chrome](https://www.media-chrome.org/): Elements for building media players.
   * [dash.js](https://reference.dashif.org/dash.js/): A reference client implementation by the DASH Industry Forum (DASH-IF) for the playback of MPEG-DASH via JavaScript and compliant MSE/EME platforms.
@@ -276,20 +276,20 @@ Front end system design resources are rare. Here's a curated list of awesome res
   * [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
   * [You don't need CRDTs for collaborative experiences](https://zknill.io/posts/collaboration-no-crdts/)
 * Operational Transformations (OTs)
-  * [Etherpad](https://github.com/ether/etherpad-lite) ⭐ 18,601 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-28: Project acquired by Google then later released as open source.
+  * [Etherpad](https://github.com/ether/etherpad-lite) ⭐ 18,603 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-28: Project acquired by Google then later released as open source.
   * [Visualization of OT with a central server](https://operational-transformation.github.io/)
   * Papers
     * [Concurrency Control in Groupware Systems](https://dl.acm.org/doi/pdf/10.1145/67544.66963): Paper that introduces operational transforms
     * [High-Latency, Low-Bandwidth Windowing in the Jupiter Collaboration System](https://dl.acm.org/doi/pdf/10.1145/215585.215706): One of the earliest research papers on operational transforms with a centralized server
   * ShareJS ecosystem
-    * [ShareDB](https://github.com/share/sharedb) ⭐ 6,554 | 🐛 176 | 🌐 JavaScript | 📅 2026-10-22: Realtime database backend based on operational transforms. Successor to ShareJS.
+    * [ShareDB](https://github.com/share/sharedb) ⭐ 6,557 | 🐛 176 | 🌐 JavaScript | 📅 2026-10-22: Realtime database backend based on operational transforms. Successor to ShareJS.
     * [ShareJS](https://github.com/josephg/sharejs) ⭐ 4,976 | 🐛 110 | 🌐 JavaScript | 📅 2016-09-12: Server & client library to allow concurrent editing of any kind of content via operational transforms
     * [The Plaintext OT Type](https://github.com/ottypes/text) ⭐ 138 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-06: Library for operational transforms on plain text. Used by ShareJS.
     * [The Plaintext OT Type, with proper unicode positions](https://github.com/ottypes/text-unicode) ⭐ 77 | 🐛 6 | 🌐 TypeScript | 📅 2022-03-24: Successor to [text type](https://github.com/ottypes/text) ⭐ 138 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-06 which accounts for unicode code points. Used by ShareJS.
   * [OT FAQ](https://web.archive.org/web/20200623064915/https://www3.ntu.edu.sg/home/czsun/projects/otfaq/): Comprehensive coverage of questions, answers, and references related to the subject of OT.
 * Conflict-Free Replicated Data Types (CRDTs)
-  * [Yjs](https://github.com/yjs/yjs) ⭐ 22,987 | 🐛 155 | 🌐 JavaScript | 📅 2026-10-23: A CRDT implementation in JavaScript
-  * [Automerge](https://github.com/automerge/automerge/) ⭐ 6,692 | 🐛 133 | 🌐 JavaScript | 📅 2026-10-26: Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.
+  * [Yjs](https://github.com/yjs/yjs) ⭐ 22,994 | 🐛 157 | 🌐 JavaScript | 📅 2026-10-23: A CRDT implementation in JavaScript
+  * [Automerge](https://github.com/automerge/automerge/) ⭐ 6,694 | 🐛 140 | 🌐 JavaScript | 📅 2026-10-26: Library which provides fast implementations of several different CRDTs, a compact compression format for these CRDTs, and a sync protocol for efficiently transmitting those changes over the network.
   * [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
   * [CRDT.tech](https://crdt.tech/): Website containing useful resources related to CRDTs.
   * [An introduction to Conflict-Free Replicated Data Types](https://lars.hupel.info/topics/crdt/01-intro/)
@@ -335,14 +335,14 @@ Front end system design resources are rare. Here's a curated list of awesome res
     * [Real-time mouse pointers](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/)
     * [How we see groups in design](https://www.canva.dev/blog/engineering/how-we-see-groups-in-design/)
 * Open Source
-  * [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 134,707 | 🐛 3,429 | 🌐 TypeScript | 📅 2026-10-28: Virtual whiteboard for sketching hand-drawn like diagrams
-  * [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 90,911 | 🐛 2,000 | 🌐 TypeScript | 📅 2026-10-28: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-  * [Penpot](https://github.com/penpot/penpot) ⭐ 61,778 | 🐛 903 | 🌐 Clojure | 📅 2026-10-28: Open Source design & prototyping platform
-  * [tldraw](https://github.com/tldraw/tldraw) ⭐ 51,123 | 🐛 576 | 🌐 TypeScript | 📅 2026-10-28: A tiny little drawing app and powerful tools for building diagramming applications
-  * [xyflow](https://github.com/xyflow/xyflow) ⭐ 38,804 | 🐛 164 | 🌐 TypeScript | 📅 2026-10-27: Library for building node-based UIs with React
-  * [React Diagrams](https://github.com/projectstorm/react-diagrams) ⭐ 9,433 | 🐛 320 | 🌐 TypeScript | 📅 2025-04-03: A flow & process orientated diagramming library written in React
-  * [draw.io](https://github.com/jgraph/drawio) ⭐ 9,033 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-23: Diagramming and whiteboarding web application
-  * [JointJS](https://github.com/clientio/joint) ⭐ 5,395 | 🐛 57 | 🌐 JavaScript | 📅 2026-10-27: Diagramming library for building interactive diagrams, flowcharts, and other visual representations
+  * [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 134,777 | 🐛 3,433 | 🌐 TypeScript | 📅 2026-10-28: Virtual whiteboard for sketching hand-drawn like diagrams
+  * [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 90,918 | 🐛 2,005 | 🌐 TypeScript | 📅 2026-10-29: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+  * [Penpot](https://github.com/penpot/penpot) ⭐ 61,824 | 🐛 902 | 🌐 Clojure | 📅 2026-10-29: Open Source design & prototyping platform
+  * [tldraw](https://github.com/tldraw/tldraw) ⭐ 51,138 | 🐛 576 | 🌐 TypeScript | 📅 2026-10-29: A tiny little drawing app and powerful tools for building diagramming applications
+  * [xyflow](https://github.com/xyflow/xyflow) ⭐ 38,817 | 🐛 151 | 🌐 TypeScript | 📅 2026-10-28: Library for building node-based UIs with React
+  * [React Diagrams](https://github.com/projectstorm/react-diagrams) ⭐ 9,434 | 🐛 320 | 🌐 TypeScript | 📅 2025-04-03: A flow & process orientated diagramming library written in React
+  * [draw.io](https://github.com/jgraph/drawio) ⭐ 9,055 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-23: Diagramming and whiteboarding web application
+  * [JointJS](https://github.com/clientio/joint) ⭐ 5,395 | 🐛 60 | 🌐 JavaScript | 📅 2026-10-29: Diagramming library for building interactive diagrams, flowcharts, and other visual representations
   * [React Easy Diagram](https://github.com/tokarchyn/react-easy-diagram) ⭐ 43 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-06: React library for creating diagrams with nodes and edges
   * [Craft.js](https://craft.js.org/): A React framework for building extensible drag and drop page editors
 
@@ -563,4 +563,4 @@ _Examples: [foo.com](https://www.foo.com), [bar.com](https://www.bar.com)_
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
